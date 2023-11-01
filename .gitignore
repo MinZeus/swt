@@ -1,0 +1,17 @@
+# Ignore compiled binary files
+*.class
+*.jar
+*.exe
+
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Logs
+nb-configuration-private.xml
+*.log
